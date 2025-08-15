@@ -1,4 +1,4 @@
-##Desktop Entry to toggle squeekboard. To make it disappear until i need it
+## Desktop Entry to toggle squeekboard. To make it disappear until i need it
 [Desktop Entry]
 Version=1.0
 Type=Application
@@ -9,7 +9,7 @@ Icon=preferences-desktop-accessibility
 Terminal=false
 Categories=Accessibility;
 
-##Desktop Entry to swith between mouse emulation and multitouch on touch screen
+## Desktop Entry to swith between mouse emulation and multitouch on touch screen
 [Desktop Entry]
 Version=1.0
 Type=Application
